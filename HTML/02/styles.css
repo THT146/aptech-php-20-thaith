@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    border:none;
+}
+ 
+#main{
+ width: 1000px;
+ margin: auto ;
+ 
+}
+#head{
+ width: 1000px;
+ height: 80px;
+ background-color: #faa91e;
+ text-align: center ;
+ display: block;
+ padding: 30px;
+
+}
+#left{
+ width: 300px;
+ height: 800px;
+ background-color: #5c8ae6;
+ float: left;
+ 
+}
+#content{
+ width: 700px;
+ height: 800px;
+ background-color: azure;
+ float: right;
+}
+
+#footer{
+    widows: 1000px; ;
+    height: 120px;
+background-color: bisque;
+clear: both;
+
+}
